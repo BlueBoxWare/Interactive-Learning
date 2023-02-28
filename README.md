@@ -7,10 +7,10 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 ---
 
 # Algorithms
-- **A* Algorithm**: [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html) 
-- **A* Algorithm**: [Circular Obstacle Pathfinding](https://redblobgames.github.io/circular-obstacle-pathfinding/) 
-- **A* Algorithm**: [The Explanation & Comparison of Graph Searches](https://cse442-17f.github.io/A-Star-Search/)
-- **A* Algorithm, Dijkstra's Algorithm**: [A* Search and Dijkstra's Algorithm - A Comparative Analysis](https://cse442-17f.github.io/A-Star-Search-and-Dijkstras-Algorithm/)
+- __A* Algorithm__: [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html) 
+- __A* Algorithm__: [Circular Obstacle Pathfinding](https://redblobgames.github.io/circular-obstacle-pathfinding/) 
+- __A* Algorithm__: [The Explanation & Comparison of Graph Searches](https://cse442-17f.github.io/A-Star-Search/)
+- __A* Algorithm, Dijkstra's Algorithm__: [A* Search and Dijkstra's Algorithm - A Comparative Analysis](https://cse442-17f.github.io/A-Star-Search-and-Dijkstras-Algorithm/)
 - **Algorithms**: [Algorithm Visualizer](https://algorithm-visualizer.org)
 - **Algorithms**: [VisuAlgo](https://visualgo.net/)
 - **Autoencoders**: [An Interactive Introduction to Autoencoders](https://introduction-to-autoencoders.vercel.app)
