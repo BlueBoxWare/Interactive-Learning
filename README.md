@@ -177,7 +177,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 
 # Internet, Networks, Security
 - **CSS**: :dart: [CSS Diner](https://flukeout.github.io)
-- **DNS**: [mess with dns](https://messwithdns.net) 
+- **DNS**: [Mess with dns](https://messwithdns.net) 
 - **Email: SPF, DKIM, DMARC**: [Learn and Test DMARC](https://www.learndmarc.com)
 - **Linux, security**: :dart: [OverTheWire](https://overthewire.org/wargames/)
 - **Networks, Security**: :yellow_circle: :dart: [Netsim](https://netsim.erinn.io)
@@ -188,7 +188,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Web Design**: [^1] [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 - **XSS**: :dart: [XSS Game](https://xss.pwnfunction.com)
 - **XSS**: :dart: [XSS game](https://xss-game.appspot.com)
-- **XSS**: :dart: [alert(1) to win](https://alf.nu/alert1)
+- **XSS**: :dart: [Alert(1) to win](https://alf.nu/alert1)
 - **Web Audio**: [Web Audio School](https://mmckegg.github.io/web-audio-school)
 
 # Statistics, Probabilistics
@@ -249,7 +249,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Physics, Statistics**: [Data Visualizations & Animations](https://pmplewa.github.io/)
 - **Reverse Engineering**: :dart: [Microcorruption - Embedded Security CTF](https://microcorruption.com)
 - **Statistics, Signal Processing**: [Visualizations on Statistics and Signal Processing](https://tools.laszlokorte.de)
-- **Trusted Platform Module (TPM)**: [TPM-JS](Trusted Platform Module)
+- **Trusted Platform Module (TPM)**: [TPM-JS](https://google.github.io/tpm-js/)
 - [The Lost Ways of Programming: Commodore 64 BASIC](https://tomasp.net/commodore64/)
 
 # See Also
