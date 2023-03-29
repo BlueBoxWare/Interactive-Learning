@@ -65,8 +65,9 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 # Programming
 - **Angular**: [Intro to Angular](https://codeamigo.dev/lessons/preview/58)
 - **APL**: [TryAPL](https://tryapl.org)
-- **Assembler**: [iRISC](https://polysoftit.co.uk/irisc-web/)
-- **Assembler (6502)**: [Easy 6502](https://skilldrick.github.io/easy6502/)
+- **Assembly**: [iRISC](https://polysoftit.co.uk/irisc-web/)
+- **Assembly (6502)**: [Easy 6502](https://skilldrick.github.io/easy6502/)
+- **Assembly**: :dart: [BOX-256](http://box-256.com)
 - **AWK**: [Basic awk: An interactive introduction to awk](https://n8ta.com/projects/awk.html) and [Intermediate awk: An interactive guide to AWK's arrays and loops](https://n8ta.com/projects/awk_intermediate.html)
 - **AWK**: [Data exploration with awk](https://sandbox.bio/tutorials?id=awk-intro)
 - **Clojure**: [Learn Clojure with Shapes](https://www.maria.cloud/intro)
@@ -84,6 +85,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **JavaSCript**: [JavaScript DOM Tutorials](https://dom-tutorials.appspot.com/static/index.html)
 - **Lambda Calculus**: [What is Lambda Calculus?](https://andrewmaxwell.github.io/junk/lambdaCalculus/)
 - **Lambda Calculus**: [Mikrokosmos - Programming on the Lambda-calculus](https://mroman42.github.io/mikrokosmos/tutorial.html)
+- **Lambda Calculus**: [Lambda Explorer](https://lambdaexplorer.com)
 - **Perl**: [Try Perl - learn the basics of the Perl language in your browser](http://tryperl.pl)
 - **Programming, LISP**: [Structure and Interpretation of Computer Programs - Interactive Version](http://xuanji.appspot.com/isicp/) [^2]
 - **Programming, Processing**: [The Nature of Code](https://natureofcode.com)
@@ -97,10 +99,13 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Regular Expressions**: :yellow_circle: :dart: [Regex Crossword](https://regexcrossword.com)
 - **Regular Expressions**: :dart: [Regex Golf](https://alf.nu/RegexGolf)
 - **Ruby**: [TryRuby - Learn programming with Ruby](https://try.ruby-lang.org)
+- **Ruby**: [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
+- **Scala**: [A Tour of Scala](http://scalatutorials.com/tour/)
 - **Scheme**: [Interactive overview of Scheme's semantics](https://blog.klipse.tech//scheme/2016/09/11/scheme-tutorial-1.html)
 - **SQL**: [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
 - **SQL**: [SQLBolt](https://sqlbolt.com)
 - **SQL**: [Select Star SQL](https://selectstarsql.com)
+- [The Lost Ways of Programming: Commodore 64 BASIC](https://tomasp.net/commodore64/)
 
 # Graphics
 - **Bezier Curves**: [Animated Bezier Curves](https://www.jasondavies.com/animated-bezier/)
@@ -173,6 +178,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **PostgreSQL**: [Postgres Tutorials](https://www.crunchydata.com/developers/tutorials)
 - **SystemD**: [SystemD by example](https://systemd-by-example.com)
 - **Vim**: [Open Vim](https://www.openvim.com)
+- **Vim**: :dart: :desktop_computer: [PacVim](https://github.com/jmoon018/PacVim)
 - **X Window System**: [Explanations](https://magcius.github.io/xplain/article/)
 
 # Internet, Networks, Security
@@ -237,6 +243,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Design**: [Learn the logic of great typography - An interactive type tutorial](https://www.learnui.design/tools/typography-tutorial.html)
 - **Economics**: [Supply & Demand - An interactive explainer, from first principles](https://www.breakeven.app/explainer/sd/)
 - **Economics**: [EconGraphs - Intuitive interactive visualizations of key concepts in economics](https://www.econgraphs.org)
+- **Economics: Banking**: :dart: [Sim CB - Sim Central Bank](https://benoitessiambre.com/macro.html), [Explanation](https://benoitessiambre.com/simcb.html)
 - **Games**: [Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit) - Interactive video essay on movement in platform games.
 - **GitHub Actions**: [GitHub Actions Hero](https://github-actions-hero.vercel.app)
 - **Math, Physics, Chemistry, etc**: [PhET](https://phet.colorado.edu)
@@ -247,10 +254,10 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Music**: [How Music Works - Interactive Music Theory Lessons](https://www.lightnote.co)
 - **Philosphy**: [History of Philosophy - Summarized & Visualized](https://www.denizcemonduygu.com/philo/browse/)
 - **Physics, Statistics**: [Data Visualizations & Animations](https://pmplewa.github.io/)
+- **Prompt Engineering**: :dart: [GPT Trick Golf](https://ggpt.43z.one)
 - **Reverse Engineering**: :dart: [Microcorruption - Embedded Security CTF](https://microcorruption.com)
 - **Statistics, Signal Processing**: [Visualizations on Statistics and Signal Processing](https://tools.laszlokorte.de)
 - **Trusted Platform Module (TPM)**: [TPM-JS](https://google.github.io/tpm-js/)
-- [The Lost Ways of Programming: Commodore 64 BASIC](https://tomasp.net/commodore64/)
 
 # See Also
 - [Explorable Explanations](https://explorabl.es)
