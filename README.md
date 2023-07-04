@@ -75,6 +75,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Digital Logic**: [Nandgame](https://nandgame.com)
 - **Digital Logic**: [Arithmetic in Computer Hardware](https://thelast19digitsofpi.github.io/hardware-explorations/dist/index.html)
 - **Digital Logic**: :dart: [Digital Logic Design (The Game)](https://asteriskman7.github.io/dldtg/)
+- **Digital Logic**: [Turing Trains](http://www.cr31.co.uk/stagecast/trains/tt0_int.html)
 - **Forth**: [Easy Forth](https://skilldrick.github.io/easyforth/)
 - **Haskell**: [Try Haskell](https://tryhaskell.org)
 - **Java/Kotlin**: [Learn CS Online](https://www.learncs.online)
@@ -94,6 +95,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Python**: :dart: [The Python Challenge](http://www.pythonchallenge.com)
 - **Python**: [Inside python dict - an explorable explanation](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
 - **Python**: [Think Python - Devetry Edition](https://coding101.devetry.com)
+- **Python**: [Inside python dict - an explorable explanation](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
 - **React**: [Intro to React](https://codeamigo.dev/lessons/preview/54)
 - **Regular Expressions**: [RegexLearn](https://regexlearn.com/learn/regex101)
 - **Regular Expressions**: :yellow_circle: :dart: [Regex Crossword](https://regexcrossword.com)
@@ -105,6 +107,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **SQL**: [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
 - **SQL**: [SQLBolt](https://sqlbolt.com)
 - **SQL**: [Select Star SQL](https://selectstarsql.com)
+- **SQL**: :dart: [Lost at SQL](https://lost-at-sql.therobinlord.com)
 - [The Lost Ways of Programming: Commodore 64 BASIC](https://tomasp.net/commodore64/)
 
 # Graphics
@@ -127,6 +130,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Shaders**: :desktop_computer: :dart: [Shaderoo](https://pdancstep.itch.io/shaderoo)
 - **SVG**: [SVG Tutorial](https://kurtbruns.github.io/svg-tutorial/)
 - **SVG**: [SSSVG: Interactive SVG Reference](https://fffuel.co/sssvg/)
+- **SVG**: [A Deep Dive Into SVG Path Commands](https://www.nan.fyi/svg-paths)
 - [Line drawing on a grid](https://www.redblobgames.com/grids/line-drawing.html)
 - [Circle fill on a grid](https://www.redblobgames.com/grids/circle-drawing/)
 
@@ -238,6 +242,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - [Hooked: how pokies are designed to be addictive](https://www.theguardian.com/australia-news/datablog/ng-interactive/2017/sep/28/hooked-how-pokies-are-designed-to-be-addictive)
 
 # Misc.
+- **Bits & Bytes**: [Memory Spy](https://memory-spy.wizardzines.com/game.html)
 - **Cryptocurrency**: [^1] [How Crypto-currency Works](https://animagraffs.com/how-cryptocurrency-works/)
 - **Computer Science**: [Computer Science Field Guide](https://www.csfieldguide.org.nz)
 - **Design**: [Learn the logic of great typography - An interactive type tutorial](https://www.learnui.design/tools/typography-tutorial.html)
