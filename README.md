@@ -7,21 +7,25 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 ---
 
 # Algorithms
-- __A* Algorithm__: [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html) 
-- __A* Algorithm__: [Circular Obstacle Pathfinding](https://redblobgames.github.io/circular-obstacle-pathfinding/) 
-- __A* Algorithm__: [The Explanation & Comparison of Graph Searches](https://cse442-17f.github.io/A-Star-Search/)
-- __A* Algorithm, Dijkstra's Algorithm__: [A* Search and Dijkstra's Algorithm - A Comparative Analysis](https://cse442-17f.github.io/A-Star-Search-and-Dijkstras-Algorithm/)
+
+- **A\* Algorithm**: [Introduction to the A\* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+- **A\* Algorithm**: [Circular Obstacle Pathfinding](https://redblobgames.github.io/circular-obstacle-pathfinding/)
+- **A\* Algorithm**: [The Explanation & Comparison of Graph Searches](https://cse442-17f.github.io/A-Star-Search/)
+- **A\* Algorithm, Dijkstra's Algorithm**: [A\* Search and Dijkstra's Algorithm - A Comparative Analysis](https://cse442-17f.github.io/A-Star-Search-and-Dijkstras-Algorithm/)
 - **Algorithms**: [Algorithm Visualizer](https://algorithm-visualizer.org)
 - **Algorithms**: [VisuAlgo](https://visualgo.net/)
 - **Autoencoders**: [An Interactive Introduction to Autoencoders](https://introduction-to-autoencoders.vercel.app)
+- **Big-O**: [Big O](https://samwho.dev/big-o/)
 - **Binary Heaps**: [Binary Heaps visualization](https://www.chrislaux.com/heap)
 - **Blockchain**: [Blockchain Demo](https://blockchaindemo.io)
 - **Bloom Filters**: [Bloom Filters](https://www.jasondavies.com/bloomfilter/)
 - **Bloom Filters**: [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/)
 - **Bloom Filters**: [Bloom Filters](https://samwho.dev/bloom-filters/)
+- **Burrows-Wheeler Transform**: [The Burrows-Wheeler Transform](https://sandbox.bio/concepts/bwt)
 - **Cellular Automata**: [From Cells to Systems](https://spaciecat.github.io/cells/)
 - **Compression**: [Compression Decompressed](https://unwttng.com/compression-decompressed)
 - **Concurrency**: :dart: [The Deadlock Empire](https://deadlockempire.github.io)
+- **DDA (Digital Differential Analyzer Algorithm)**: [The DDA Algorithm, explained interactively](https://aaaa.sh/creatures/dda-algorithm-interactive)
 - **Digital Signal Processing**: [A Compact Primer on Digital Signal Processing](https://jackschaedler.github.io/circles-sines-signals/)
 - **Floating Point**: [Float Toy](https://evanw.github.io/float-toy/)
 - **Floating Point**: [IEEE 754 Double Precision Floating Point Visualization](https://bartaz.github.io/ieee754-visualization/)
@@ -31,6 +35,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Graphs**: [Graphery](https://graphery.reedcompbio.org)
 - **The Halting Problem**: [The halting problem - An interactive tutorial](https://busy-beavers.tigyog.app/the-halting-problem)
 - **Hamming(7,4)**: [Hamming Game](https://rubi-and-mugmug.itch.io/hamming-game)
+- **Hashing**: [Hashing](https://samwho.dev/hashing/)
 - **K-means Clustering**: [K-Means Clustering - An Explorable Explainer](https://k-means-explorable.vercel.app)
 - **K-means Clustering & DBSCAN**: [Clustering Comparison](https://cartography-playground.gitlab.io/playgrounds/clustering-comparison/)
 - **Kernel Density Estimation**: [Kernel density estimation](https://cartography-playground.gitlab.io/playgrounds/kernel-density-estimation/)
@@ -47,8 +52,10 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Neural Networks**: [Four Experiments in Handwriting with a Neural Network](https://distill.pub/2016/handwriting/)
 - **Numerical Optimization**: [An Interactive Tutorial on Numerical Optimization](https://www.benfrederickson.com/numerical-optimization/)
 - **Quadtrees**: [An interactive explanation of quadtrees](https://jimkang.com/quadtreevis/)
+- **Queues**: [Queueing – An interactive study of queueing strategies](https://encore.dev/blog/queueing)
 - **Recursion**: [Computer Science Circles - Recursion](https://cscircles.cemc.uwaterloo.ca/16-recursion/)
 - **Reinforcement Learning**: [Reinforcement Learning - A Gentle Introduction To Learning From Decisions](https://mlu-explain.github.io/reinforcement-learning/)
+- **Reservoir Sampling**: [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
 - **RSA**: [Public-Key Encryption by RSA Algorithm](http://www.steyrerbrains.at/math/rsa.html)
 - **SHA256**: [Sha256 Algorithm Explained](https://sha256algorithm.com)
 - **Simulated Annealing**: [Visualizing Simulated Annealing](https://cse442-17f.github.io/simulated-annealing/)
@@ -64,6 +71,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - [Tic-Tac-Toe Bots](https://nicolodavis.com/blog/tic-tac-toe/)
 
 # Programming
+
 - **Angular**: [Intro to Angular](https://codeamigo.dev/lessons/preview/58)
 - **APL**: [TryAPL](https://tryapl.org)
 - **Assembly**: [iRISC](https://polysoftit.co.uk/irisc-web/)
@@ -72,6 +80,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Assembly**: :dart: [Projekt: Overflow - RISC-V assembly board game](https://punkx.org/overflow/)
 - **AWK**: [Basic awk: An interactive introduction to awk](https://n8ta.com/projects/awk.html) and [Intermediate awk: An interactive guide to AWK's arrays and loops](https://n8ta.com/projects/awk_intermediate.html)
 - **AWK**: [Data exploration with awk](https://sandbox.bio/tutorials?id=awk-intro)
+- **Bash**: [How to write a Bash script](https://sandbox.bio/tutorials/bash-script)
 - **Clojure**: [Try Clojure](https://tryclojure.org/)
 - **Clojure**: [Learn Clojure with Shapes](https://www.maria.cloud/intro)
 - **Clojure**: [Tetris in ClojureScript](http://shaunlebron.github.io/t3tr0s-slides/)
@@ -114,8 +123,10 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **SQL**: [Select Star SQL](https://selectstarsql.com)
 - **SQL**: :dart: [Lost at SQL](https://lost-at-sql.therobinlord.com)
 - [The Lost Ways of Programming: Commodore 64 BASIC](https://tomasp.net/commodore64/)
+- :desktop_computer: [learnbyexample/TUI-apps: Linux, grep, sed, awk, etc](https://github.com/learnbyexample/TUI-apps)
 
 # Graphics
+
 - **Bezier Curves**: [Animated Bezier Curves](https://www.jasondavies.com/animated-bezier/)
 - **Bezier Curves**: [A Primer on Bezier Curves](https://pomax.github.io/bezierinfo/)
 - **Bezier Curves**: :dart: [The Bezier Game](https://bezier.method.ac)
@@ -130,20 +141,27 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Misc**: [Curves and Surfaces](https://ciechanow.ski/curves-and-surfaces/)
 - **Noise**: [Making maps with noise functions](https://www.redblobgames.com/maps/terrain-from-noise/)
 - **Pixel Art**: [^1] [Pixel Art Tutorials](https://saint11.org/blog/pixel-art-tutorials/)
+- **Raymarching**: [Raymarching explained interactively](https://imadr.me/raymarching-explained-interactively/)
 - **Shaders**: [The Book of Shaders](https://thebookofshaders.com)
 - **Shaders**: [Fragment Foundry](http://hughsk.io/fragment-foundry)
 - **Shaders**: [A Journey Into Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
+- **Shaders**: [Shader Tutorial](https://shaderacademy.com/challenge/intro_0)
 - **Shaders**: :desktop_computer: :dart: [Shaderoo](https://pdancstep.itch.io/shaderoo)
 - **SVG**: [SVG Tutorial](https://kurtbruns.github.io/svg-tutorial/)
 - **SVG**: [SSSVG: Interactive SVG Reference](https://fffuel.co/sssvg/)
 - **SVG**: [A Deep Dive Into SVG Path Commands](https://www.nan.fyi/svg-paths)
+- **SVG**: [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/)
+- **SVG**: [An Interactive Guide to SVG Paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/)
 - [Line drawing on a grid](https://www.redblobgames.com/grids/line-drawing.html)
 - [Circle fill on a grid](https://www.redblobgames.com/grids/circle-drawing/)
+- [Physically based rendering from first principles](https://imadr.me/pbr/)
 
 # Math
+
 - **Complex Analysis**: [Complex analysis - A Visual and Interactive Introduction](https://complex-analysis.com)
 - **Complex Numbers**: [Simple Numbers](http://polytrope.com/simplenumbers/)
 - **Degrees & Radians**: [https://mathigon.org/course/circles/radians](https://mathigon.org/course/circles/radians)
+- **Discrete Mathematics**: [Discrete Mathematics: An Open Introduction](https://discrete.openmathbooks.org/)
 - **Eigenvectors, Eigenvalues**: [Eigenvectors and Eigenvalues](https://setosa.io/ev/eigenvectors-and-eigenvalues/)
 - **Eigenvectors, Eigenvalues**: [Interactive Visualization of Why Eigenvectors Matter](https://www.dhruvonmath.com/2020/07/26/who-cares-about-eigenvectors/)
 - **Fourier Transforms**: [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier/index.html)
@@ -170,11 +188,13 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - [Mathigon](https://mathigon.org/courses)
 - [Geogebra](https://www.geogebra.org/t/math)
 - [The Natural Number Game](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/)
+- [The four color theorem, P vs NP, and zero knowledge proofs](https://www.rahulilango.com/coloring/)
 
 # Software
+
 - **BASH (shell)**: :desktop_computer: :dart: [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl)
 - **Docker**: :yellow_circle: [Play with Docker Classroom](https://training.play-with-docker.com)
-- **Fish shell*: [Fish shell playground](https://rootnroll.com/d/fish-shell/)
+- **Fish shell**: [Fish shell playground](https://rootnroll.com/d/fish-shell/)
 - **Git**: :desktop_computer: :dart: [Oh My Git!](https://ohmygit.org)
 - **Git**: [Learn Git Branching](https://learngitbranching.js.org)
 - **Git**: [Visualizing Git Concepts with D3](https://onlywei.github.io/explain-git-with-d3/)
@@ -197,8 +217,9 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **X Window System**: [Explanations](https://magcius.github.io/xplain/article/)
 
 # Internet, Networks, Security
+
 - **CSS**: :dart: [CSS Diner](https://flukeout.github.io)
-- **DNS**: [Mess with dns](https://messwithdns.net) 
+- **DNS**: [Mess with dns](https://messwithdns.net)
 - **Email: SPF, DKIM, DMARC**: [Learn and Test DMARC](https://www.learndmarc.com)
 - **Linux, security**: :dart: [OverTheWire](https://overthewire.org/wargames/)
 - **Networks, Security**: :yellow_circle: :dart: [Netsim](https://netsim.erinn.io)
@@ -213,6 +234,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Web Audio**: [Web Audio School](https://mmckegg.github.io/web-audio-school)
 
 # Statistics, Probabilistics
+
 - [Wizard's Guide to Statistics](https://cassandraxia.com/wizard/)
 - [Adventures in Cognitive Biases](https://cassandraxia.com/cogbiases/)
 - [Seeing Theory - A visual introduction to probability and statistics](https://seeing-theory.brown.edu/)
@@ -230,11 +252,14 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Taxicab Problem**: [The Taxi-cab Problem](http://galgreen.com/TaxiCabProblem/)
 
 # Physics
+
+- **Bell's theorem**: [Quantum Roulette and the Nature of Reality](https://freelanceastro.github.io/bell/)
 - **Complex Sysytems**: [What is Complexity Science?](https://complexityexplained.github.io)
 - **Entropy**: [Entropy Explained, With Sheep](https://aatishb.com/entropy/)
 - **GPS**: [https://ciechanow.ski/gps/](https://ciechanow.ski/gps/)
 - **Special Relativity**: [Exploring Special Relativity](https://prideout.net/blog/relativity/)
 - **Waves**: [Waves: An Interactive Tutorial](https://www.compadre.org/books/WavesIntTut)
+- **Waves**: [Making Music with Math: A Guide to Synthesizing Sounds with the Wave Equation](https://aatishb.com/stringmath/)
 - **Waves: Sound**: [Let's learn about Waveforms](https://pudding.cool/2018/02/waveforms/)
 - [Explorable Physics](https://landgreen.github.io/physics/index.html)
 - [oPhysics: Interactive Physics Simulations](https://www.ophysics.com)
@@ -243,6 +268,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - [Gears](https://ciechanow.ski/gears/)
 
 # Psychology and Sociology
+
 - **Game Theory**: [The Evolution of Trust](https://ncase.me/trust/)
 - **Game Theory**: [Game Theory](https://mathigon.org/world/Game_Theory)
 - **Politics**: [District - A puzzle game about gerrymandering & proportional representation](http://polytrope.com/district/)
@@ -253,6 +279,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - [Hooked: how pokies are designed to be addictive](https://www.theguardian.com/australia-news/datablog/ng-interactive/2017/sep/28/hooked-how-pokies-are-designed-to-be-addictive)
 
 # Misc.
+
 - **Bits & Bytes**: [Memory Spy](https://memory-spy.wizardzines.com/game.html)
 - **Cryptocurrency**: [^1] [How Crypto-currency Works](https://animagraffs.com/how-cryptocurrency-works/)
 - **Computer Science**: [Computer Science Field Guide](https://www.csfieldguide.org.nz)
@@ -277,7 +304,10 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Trusted Platform Module (TPM)**: [TPM-JS](https://google.github.io/tpm-js/)
 
 # See Also
+
 - [Explorable Explanations](https://explorabl.es)
+- [The Science Playground](https://thescienceplayground.com)
 
 [^1]: Not interactive, but in the same spirit.
+
 [^2]: Click on a code fragment to edit it, Ctrl-Enter to (re)run the edited code.
