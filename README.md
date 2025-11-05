@@ -212,8 +212,10 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **PostgreSQL**: [Postgres Tutorials](https://www.crunchydata.com/developers/tutorials)
 - **SystemD**: [SystemD by example](https://systemd-by-example.com)
 - **Vim**: [Open Vim](https://www.openvim.com)
+- **Vim**: [VimHero](https://www.vim-hero.com)
 - **Vim**: :dart: :desktop_computer: [PacVim](https://github.com/jmoon018/PacVim)
 - **Vim**: :dart: [Vim Racer](https://vim-racer.com)
+- **Vim**: :dart: [VIM Master Game](https://renzorlive.github.io/vimmaster/)
 - **X Window System**: [Explanations](https://magcius.github.io/xplain/article/)
 
 # Internet, Networks, Security
