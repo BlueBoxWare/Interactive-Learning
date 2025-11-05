@@ -66,6 +66,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Virtual Memory**: [Virtual Memory With 256 Bytes of RAM - Interactive Demo](https://blog.robertelder.org/virtual-memory-with-256-bytes-of-ram/)
 - **Zero Knowledge**: :dart: [zk treasure hunt](https://zk-treasure-hunt.glitch.me)
 - [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site/)
+- [A series of nonverbal algorithm assembly instructions](https://idea-instructions.com) [^1]
 - [Conflict Driven Clause Learning](https://cse442-17f.github.io/Conflict-Driven-Clause-Learning/)
 - [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 - [Tic-Tac-Toe Bots](https://nicolodavis.com/blog/tic-tac-toe/)
@@ -275,6 +276,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Game Theory**: [Game Theory](https://mathigon.org/world/Game_Theory)
 - **Politics**: [District - A puzzle game about gerrymandering & proportional representation](http://polytrope.com/district/)
 - **Politics: Polling**: [Rock 'n Poll - Polls explained with interactive graphics](http://rocknpoll.graphics)
+- **Prisoner's Dilemma**: [Simulating The Prisoner's Dilemma](https://perthirtysix.com/tool/prisoners-dilemma-simulator)
 - **Signal Detection Theory**: [d'etectable - An Explorable Explanation of Signal Detection Theory](https://decidables.github.io/detectable/index.html)
 - [The Wisdom and/or Madness of Crowds](https://ncase.me/crowds/)
 - [Parable of the Polygons - An interactive story about how we divide ourselves, from the bottom up](https://ncase.me/polygons/)
@@ -300,6 +302,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Philosphy**: [History of Philosophy - Summarized & Visualized](https://www.denizcemonduygu.com/philo/browse/)
 - **Physics, Statistics**: [Data Visualizations & Animations](https://pmplewa.github.io/)
 - **Prompt Engineering**: :dart: [GPT Trick Golf](https://ggpt.43z.one)
+- **QR Code**: [How The Heck Do QR Codes Work?](https://perthirtysix.com/how-the-heck-do-qr-codes-work)
 - **Quantum Computing**: :dart: [The Cubit Game](https://quantumai.google/education/thequbitgame)
 - **Reverse Engineering**: :dart: [Microcorruption - Embedded Security CTF](https://microcorruption.com)
 - **Statistics, Signal Processing**: [Visualizations on Statistics and Signal Processing](https://tools.laszlokorte.de)
