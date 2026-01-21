@@ -25,6 +25,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Cellular Automata**: [From Cells to Systems](https://spaciecat.github.io/cells/)
 - **Compression**: [Compression Decompressed](https://unwttng.com/compression-decompressed)
 - **Concurrency**: :dart: [The Deadlock Empire](https://deadlockempire.github.io)
+- **Data Structures & Algorithms**: [Data Structures & Algorithms Tutorial](https://8gwifi.org/tutorials/dsa/)
 - **DDA (Digital Differential Analyzer Algorithm)**: [The DDA Algorithm, explained interactively](https://aaaa.sh/creatures/dda-algorithm-interactive)
 - **Digital Signal Processing**: [A Compact Primer on Digital Signal Processing](https://jackschaedler.github.io/circles-sines-signals/)
 - **Floating Point**: [Float Toy](https://evanw.github.io/float-toy/)
@@ -77,6 +78,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **APL**: [TryAPL](https://tryapl.org)
 - **Assembly**: [iRISC](https://polysoftit.co.uk/irisc-web/)
 - **Assembly (6502)**: [Easy 6502](https://skilldrick.github.io/easy6502/)
+- **Assembly (RISC-V)**: [Easy RISC-V](https://dramforever.github.io/easyriscv/)
 - **Assembly**: :dart: [BOX-256](http://box-256.com)
 - **Assembly**: :dart: [Projekt: Overflow - RISC-V assembly board game](https://punkx.org/overflow/)
 - **AWK**: [Basic awk: An interactive introduction to awk](https://n8ta.com/projects/awk.html) and [Intermediate awk: An interactive guide to AWK's arrays and loops](https://n8ta.com/projects/awk_intermediate.html)
@@ -110,6 +112,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Python**: [Inside python dict - an explorable explanation](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
 - **Python**: [Think Python - Devetry Edition](https://coding101.devetry.com)
 - **Python**: [Inside python dict - an explorable explanation](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
+- **Python**: [ANBU: Python Coding challenges](https://punkx.org/anbu/)
 - **React**: [Intro to React](https://codeamigo.dev/lessons/preview/54)
 - **Regular Expressions**: [RegexLearn](https://regexlearn.com/learn/regex101)
 - **Regular Expressions**: :yellow_circle: :dart: [Regex Crossword](https://regexcrossword.com)
@@ -124,6 +127,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **SQL**: [Select Star SQL](https://selectstarsql.com)
 - **SQL**: :dart: [Lost at SQL](https://lost-at-sql.therobinlord.com)
 - [The Lost Ways of Programming: Commodore 64 BASIC](https://tomasp.net/commodore64/)
+- [Learn to Code - Free interactive tutorials with live code editor](https://8gwifi.org/tutorials/)
 - :desktop_computer: [learnbyexample/TUI-apps: Linux, grep, sed, awk, etc](https://github.com/learnbyexample/TUI-apps)
 
 # Graphics
@@ -194,6 +198,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 # Software
 
 - **BASH (shell)**: :desktop_computer: :dart: [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl)
+- **Browsers**: [How Browsers Work](https://howbrowserswork.com)
 - **Docker**: :yellow_circle: [Play with Docker Classroom](https://training.play-with-docker.com)
 - **Fish shell**: [Fish shell playground](https://rootnroll.com/d/fish-shell/)
 - **Git**: :desktop_computer: :dart: [Oh My Git!](https://ohmygit.org)
@@ -208,6 +213,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Linux, filesystem**: [What is a filesystem?](https://aneeshdurg.me/what_is_a_filesystem/)
 - **Linux, troubleshooting**: :dart: [SadServers](https://sadservers.com)
 - **Linux/Unix**: :dart: [The Unix Game](https://www.unixgame.io)
+- **Linux, terminals**: [How Terminals Work](https://how-terminals-work.vercel.app)
 - **Markdown**: [Markdown Tutorial](https://commonmark.org/help/tutorial/)
 - **Markdown**: [Markdown Tutorial](https://www.markdowntutorial.com/)
 - **PostgreSQL**: [Postgres Tutorials](https://www.crunchydata.com/developers/tutorials)
