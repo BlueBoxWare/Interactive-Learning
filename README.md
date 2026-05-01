@@ -257,9 +257,6 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 
 # Statistics, Probabilistics
 
-- [Wizard's Guide to Statistics](https://cassandraxia.com/wizard/)
-- [Adventures in Cognitive Biases](https://cassandraxia.com/cogbiases/)
-- [Seeing Theory - A visual introduction to probability and statistics](https://seeing-theory.brown.edu/)
 - **Binary Hypothesis Test**: [Binary Hypothesis Test](https://static.laszlokorte.de/hypothesis/)
 - **Birthday Paradox**: [The Birthday Paradox Experiment](https://pudding.cool/2018/04/birthday-paradox/)
 - **Birthday Paradox**: [The Birthday Paradox Visualized](https://perthirtysix.com/tool/birthday-paradox)
@@ -273,6 +270,9 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Standard Error**: [Standard error of the mean](https://www.vipinajayakumar.com/standard-error-of-the-mean)
 - **T-test**: [An interactive explanation of the statistical t-test used to compare sample means](https://www.vipinajayakumar.com/an-interactive-explanation-of-the-statistical-t-test-used-to-compare-sample-means.html)
 - **Taxicab Problem**: [The Taxi-cab Problem](http://galgreen.com/TaxiCabProblem/)
+- [Wizard's Guide to Statistics](https://cassandraxia.com/wizard/)
+- [Adventures in Cognitive Biases](https://cassandraxia.com/cogbiases/)
+- [Seeing Theory - A visual introduction to probability and statistics](https://seeing-theory.brown.edu/)
 
 # Physics
 
