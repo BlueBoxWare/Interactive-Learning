@@ -15,15 +15,14 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Algorithms**: [Algorithm Visualizer](https://algorithm-visualizer.org)
 - **Algorithms**: [VisuAlgo](https://visualgo.net/)
 - **Autoencoders**: [An Interactive Introduction to Autoencoders](https://introduction-to-autoencoders.vercel.app)
-- **B-Tree**: [B-Tree Simulator](https://toolkit.whysonil.dev/tools/simulators/btree/)
 - **Big-O**: [Big O](https://samwho.dev/big-o/)
+- **Big-O**: [Big O Notation: An Interactive Guide](https://sbondaryev.dev/articles/big-o-notation)
 - **Binary Heaps**: [Binary Heaps visualization](https://www.chrislaux.com/heap)
 - **Blockchain**: [Blockchain Demo](https://blockchaindemo.io)
 - **Bloom Filters**: [Bloom Filters](https://www.jasondavies.com/bloomfilter/)
 - **Bloom Filters**: [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/)
 - **Bloom Filters**: [Bloom Filters](https://samwho.dev/bloom-filters/)
 - **Burrows-Wheeler Transform**: [The Burrows-Wheeler Transform](https://sandbox.bio/concepts/bwt)
-- **CAP Theorem**: [CAP Theorem simulator](https://toolkit.whysonil.dev/tools/simulators/cap-theorem/)
 - **Cellular Automata**: [From Cells to Systems](https://web.archive.org/web/20230426131551/https://spaciecat.github.io/cells/)
 - **Compression**: [Compression Decompressed](https://web.archive.org/web/20240228181824/https://unwttng.com/compression-decompressed)
 - **Concurrency**: :dart: [The Deadlock Empire](https://deadlockempire.github.io)
@@ -71,13 +70,14 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Simulated Annealing**: [Visualizing Simulated Annealing](https://cse442-17f.github.io/simulated-annealing/)
 - **Sliding Window**: [The Sliding Window Pattern](https://nan-archive.vercel.app/sliding-window)
 - **State Machines (DFAs)**: :dart: [FiniteStates](https://shailpatels.itch.io/finitestates)
+- **Transformers**: [Transformer Explainer: LLM Transformer Model Visually Explained](https://poloclub.github.io/transformer-explainer/)
 - **Traveling Salesman**: [Traveling Salesman Algorithms](https://cse442-17f.github.io/Traveling-Salesman-Algorithms/)
 - **Turing Machines**: [Turing Machine Visualization](https://wimmers.github.io/turing-machine-viz/)
 - **Virtual Memory**: [Virtual Memory With 256 Bytes of RAM - Interactive Demo](https://blog.robertelder.org/virtual-memory-with-256-bytes-of-ram/)
 - [Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site/)
 - [A series of nonverbal algorithm assembly instructions](https://idea-instructions.com) [^1]
 - [Conflict Driven Clause Learning](https://cse442-17f.github.io/Conflict-Driven-Clause-Learning/)
-- [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+- [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/?_ignore_)
 - [Tic-Tac-Toe Bots](https://nicolodavis.com/blog/tic-tac-toe/)
 
 # Programming
@@ -109,6 +109,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Lambda Calculus**: [λ-Calculus Explorer](https://kmicinski.com/cis352-s26/lambda-playground/www/index.html)
 - **Lean**: :dart: [Lean Game Server](https://adam.math.hhu.de/)
 - **Perl**: [Try Perl - learn the basics of the Perl language in your browser](http://tryperl.pl)
+- **Programming, JavaScript**: [Structure and Interpretation of Computer Programs - JavaScript Version](https://sourceacademy.org/sicpjs/) [^2]
 - **Programming, LISP**: [Structure and Interpretation of Computer Programs - Interactive Version](http://xuanji.appspot.com/isicp/) [^2]
 - **Programming, Processing**: [The Nature of Code](https://natureofcode.com)
 - **Programming Language Implementation**: [<Insert Language Name Here> - How to make interesting little languages](http://breuleux.net/blog/language-howto.html) [^2]
@@ -120,7 +121,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Python**: [ANBU: Python Coding challenges](https://punkx.org/anbu/)
 - **React**: [Intro to React](https://codeamigo.dev/lessons/preview/54)
 - **Regular Expressions**: [RegexLearn](https://regexlearn.com/learn/regex101)
-- **Regular Expressions**: :yellow_circle: :dart: [Regex Crossword](https://regexcrossword.com)
+- **Regular Expressions**: :yellow*circle: :dart: [Regex Crossword](https://regexcrossword.com?_ignore*)
 - **Regular Expressions**: :dart: [Regex Golf](https://alf.nu/RegexGolf)
 - **Ruby**: [TryRuby - Learn programming with Ruby](https://try.ruby-lang.org)
 - **Ruby**: [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
