@@ -14,7 +14,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **A\* Algorithm, Dijkstra's Algorithm**: [A\* Search and Dijkstra's Algorithm - A Comparative Analysis](https://cse442-17f.github.io/A-Star-Search-and-Dijkstras-Algorithm/)
 - **Algorithms**: [Algorithm Visualizer](https://algorithm-visualizer.org)
 - **Algorithms**: [VisuAlgo](https://visualgo.net/)
-- **Algorithms**: [Lessons](https://csacademy.com/lessons) 
+- **Algorithms**: [Lessons](https://csacademy.com/lessons)
 - **Autoencoders**: [An Interactive Introduction to Autoencoders](https://introduction-to-autoencoders.vercel.app)
 - **Big-O**: [Big O](https://samwho.dev/big-o/)
 - **Big-O**: [Big O Notation: An Interactive Guide](https://sbondaryev.dev/articles/big-o-notation)
@@ -28,7 +28,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Compression**: [Compression Decompressed](https://web.archive.org/web/20240228181824/https://unwttng.com/compression-decompressed)
 - **Concurrency**: :dart: [The Deadlock Empire](https://deadlockempire.github.io)
 - **Data Structures & Algorithms**: [Data Structures & Algorithms Tutorial](https://8gwifi.org/tutorials/dsa/)
-- **Data Structures & Algorithms**: [Pytudes - Python programs, usually short, for perfecting particular programming skills](https://github.com/norvig/pytudes) 
+- **Data Structures & Algorithms**: [Pytudes - Python programs, usually short, for perfecting particular programming skills](https://github.com/norvig/pytudes)
 - **DDA (Digital Differential Analyzer Algorithm)**: [The DDA Algorithm, explained interactively](https://aaaa.sh/creatures/dda-algorithm-interactive)
 - **Digital Signal Processing**: [A Compact Primer on Digital Signal Processing](https://jackschaedler.github.io/circles-sines-signals/)
 - **Dijkstra's algorithm**: [Dijkstra's Shortest-Path Algorithm](https://joshmpollock.com/dijkstras-algorithm-article/)
@@ -155,7 +155,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Image Kernels**: [Image Kernels](https://setosa.io/ev/image-kernels/)
 - **JPEG**: [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 - **JPEG**: [JPEG compression](https://www.sophielwang.com/blog/jpeg)
-- **JPEG**: [How The Heck Does JPEG Work? (An Interactive Exploration)](https://perthirtysix.com/how-the-heck-does-jpeg-work) 
+- **JPEG**: [How The Heck Does JPEG Work? (An Interactive Exploration)](https://perthirtysix.com/how-the-heck-does-jpeg-work)
 - **Lerping**: [Animation Code. Part 1: Lerping](https://demoman.net/?a=animation-code-part-1)
 - **Misc**: [Curves and Surfaces](https://ciechanow.ski/curves-and-surfaces/)
 - **Noise**: [Making maps with noise functions](https://www.redblobgames.com/maps/terrain-from-noise/)
@@ -208,7 +208,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - [The Natural Number Game](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/)
 - [How you invent math: Building numbers from nothing](https://growingswe.com/blog/inventing-math)
 - [The four color theorem, P vs NP, and zero knowledge proofs](https://www.rahulilango.com/coloring/)
-- [Finding Foxes](https://john.fun/foxes) 
+- [Finding Foxes](https://john.fun/foxes)
 
 # Hardware
 
@@ -219,11 +219,11 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 
 # Software
 
-- **Ansible**: :desktop_computer: [Interactive tutorials for Ansible](https://github.com/turkenh/ansible-interactive-tutorial) 
+- **Ansible**: :desktop_computer: [Interactive tutorials for Ansible](https://github.com/turkenh/ansible-interactive-tutorial)
 - **Bash**: :desktop_computer: :dart: [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl)
 - **Bash**: [Try Bash in Y minutes](https://codapi.org/try/bash/)
 - **Browsers**: [How Browsers Work](https://howbrowserswork.com)
-- **Curl**: [Curl by example: Interactive guide](https://antonz.org/curl-by-example/) 
+- **Curl**: [Curl by example: Interactive guide](https://antonz.org/curl-by-example/)
 - **Databases**: [Build Your Own Database](https://www.nan.fyi/database)
 - **Docker**: :yellow_circle: [Play with Docker Classroom](https://training.play-with-docker.com)
 - **Fish shell**: [Fish shell playground](https://rootnroll.com/d/fish-shell/)
@@ -254,6 +254,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Vim**: :dart: [Vim Racer](https://vim-racer.com)
 - **Vim**: :dart: [VIM Master Game](https://renzorlive.github.io/vimmaster/)
 - **Vim**: :dart: [VIM_GYM](https://www.vimgym.app/)
+- **Vim**: :dart: :desktop_computer: [VimMonsters Academy](https://github.com/error311/vimmonsters-academy)
 - **X Window System**: [Explanations](https://magcius.github.io/xplain/article/)
 
 # Internet, Networks, Security
@@ -324,7 +325,7 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 
 # Misc.
 
-- **4th Dimension**: [Interactive 4D Handbook](https://baileysnyder.com/interactive-4d/) 
+- **4th Dimension**: [Interactive 4D Handbook](https://baileysnyder.com/interactive-4d/)
 - **Bits & Bytes**: [Memory Spy](https://memory-spy.wizardzines.com/game.html)
 - **Cryptocurrency**: [^1] [How Crypto-currency Works](https://animagraffs.com/how-cryptocurrency-works/)
 - **Computer Science**: [Computer Science Field Guide](https://www.csfieldguide.org.nz)
@@ -334,13 +335,13 @@ Websites, tutorials and software which allow you to learn tech and science stuff
 - **Economics: Banking**: :dart: [Sim CB - Sim Central Bank](https://benoitessiambre.com/macro.html), [Explanation](https://benoitessiambre.com/simcb.html)
 - **Games**: [Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit) - Interactive video essay on movement in platform games.
 - **GitHub Actions**: [GitHub Actions Hero](https://github-actions-hero.vercel.app)
+- **Hajj**: :dart: [The Hajj Trail](https://www.hajjtrail.com/)
 - **Math, Physics, Chemistry, etc**: [PhET](https://phet.colorado.edu)
 - **Math, Signals Processing, Algorithms**: [Visualizations on Statistics and Signal Processing](https://tools.laszlokorte.de)
 - **Math, Physics, Etc**: [Visualize It](https://visualize-it.github.io)
 - **Math, Physics, Etc**: [falstad.com](https://www.falstad.com/mathphysics.html)
 - **Medieval Baghdad**: :dart: [Discovery Tour App: Medieval Baghdad](https://www.ubisoft.com/mirage-medieval-baghdad/)
 - **Misc**: [Wolfram Demonstrations Project](https://demonstrations.wolfram.com)
-- **Misc**: [Project Lumen: The Manual for the Universe](https://www.projectlumen.app/)
 - **Music**: [How Music Works - Interactive Music Theory Lessons](https://www.lightnote.co)
 - **Philosphy**: [History of Philosophy - Summarized & Visualized](https://www.denizcemonduygu.com/philo/browse/)
 - **Physics, Statistics**: [Data Visualizations & Animations](https://pmplewa.github.io/)
